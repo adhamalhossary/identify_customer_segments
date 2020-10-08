@@ -1,1 +1,5 @@
-# identify_customer_segments
+# Machine Learning Nanodegree
+## Unsupervised Learning
+## Project: Identify Customer Segments
+
+----
